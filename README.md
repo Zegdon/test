@@ -18,3 +18,5 @@ Ezeket, az összes projekthez készülő különálló dokumentációval együtt
 A projekthez tartozó konfigurációs tulajdonságok (property-k) egy külön repositoryban találhatóak.
 Ennek a repositorynak biztonsági okokból privátnak kell lennie. A fejlesztők számára a következő linken elérhető:
 [Config-repo](https://github.com/szattila98/config-repo)
+
+# Lokalis futtatas
