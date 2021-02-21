@@ -19,4 +19,4 @@ A projekthez tartozó konfigurációs tulajdonságok (property-k) egy külön re
 Ennek a repositorynak biztonsági okokból privátnak kell lennie. A fejlesztők számára a következő linken elérhető:
 [Config-repo](https://github.com/szattila98/config-repo)
 
-# Lokalis futtatas
+## Lokalis futtatas
